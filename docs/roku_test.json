@@ -204,6 +204,216 @@
       "releaseYear": 2025
     },
     {
+      "type": "season",
+      "titles": [
+        {
+          "value": "Season 1",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Killer Cases brings all the emotion, drama, and suspense from chilling murder trials.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "seasonInfo": {
+        "seriesId": "141",
+        "seasonNumber": 1
+      },
+      "images": [
+        {
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_695ca090dfc0a_1920x1080.jpg",
+          "type": "main",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "value": "TV-14",
+          "source": "USA_PR"
+        }
+      ],
+      "genres": [
+        "law"
+      ],
+      "releaseYear": 2026
+    },
+    {
+      "type": "season",
+      "titles": [
+        {
+          "value": "Season 1",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Murder Uncut takes viewers behind the scenes of investigations where body and surveillance cams are critical to cracking the case.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "seasonInfo": {
+        "seriesId": "142",
+        "seasonNumber": 1
+      },
+      "images": [
+        {
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_695ca1171bdcf_1920x1080.jpg",
+          "type": "main",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "value": "TV-14",
+          "source": "USA_PR"
+        }
+      ],
+      "genres": [
+        "law"
+      ],
+      "releaseYear": 2026
+    },
+    {
+      "type": "season",
+      "titles": [
+        {
+          "value": "Season 1",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Cult Justice explores the magnetic power of criminal cult leaders—and the dramatic investigations that finally brought them to justice.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "seasonInfo": {
+        "seriesId": "143",
+        "seasonNumber": 1
+      },
+      "images": [
+        {
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_695c9f4ba5b30_1920x1080.jpg",
+          "type": "main",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "value": "TV-14",
+          "source": "USA_PR"
+        }
+      ],
+      "genres": [
+        "law"
+      ],
+      "releaseYear": 2025
+    },
+    {
+      "type": "season",
+      "titles": [
+        {
+          "value": "Season 1",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "COPS Reloaded showcases some of the most memorable suspects, car chases and action-packed moments from TV's popular reality program.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "seasonInfo": {
+        "seriesId": "144",
+        "seasonNumber": 1
+      },
+      "images": [
+        {
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_695c9ec8c1dce_1920x1080.jpg",
+          "type": "main",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "value": "TV-14",
+          "source": "USA_PR"
+        }
+      ],
+      "genres": [
+        "law"
+      ],
+      "releaseYear": 2025
+    },
+    {
+      "type": "season",
+      "titles": [
+        {
+          "value": "Season 1",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "shortDescriptions": [
+        {
+          "value": "Jail gives viewers a front row seat as recently arrested suspects face entry into the criminal justice system.",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "seasonInfo": {
+        "seriesId": "145",
+        "seasonNumber": 1
+      },
+      "images": [
+        {
+          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_695ca0592e1ec_1920x1080.jpg",
+          "type": "main",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "advisoryRatings": [
+        {
+          "value": "TV-14",
+          "source": "USA_PR"
+        }
+      ],
+      "genres": [
+        "law"
+      ],
+      "releaseYear": 2025
+    },
+    {
       "id": "213408",
       "type": "episode",
       "titles": [
@@ -231,6 +441,7 @@
       },
       "episodeInfo": {
         "seriesId": "141",
+        "seasonNumber": 1,
         "episodeNumber": 1
       },
       "shortDescriptions": [
@@ -290,11 +501,12 @@
       },
       "episodeInfo": {
         "seriesId": "142",
+        "seasonNumber": 1,
         "episodeNumber": 1
       },
       "shortDescriptions": [
         {
-          "value": "Texas police suspected a serial killer was on the loose when bodies of four women were foundÂ dumped by the side of Highway 101.",
+          "value": "Texas police suspected a serial killer was on the loose when bodies of four women were foundÂ dumped by the side of Highway 101.",
           "languages": [
             "en"
           ]
@@ -349,6 +561,7 @@
       },
       "episodeInfo": {
         "seriesId": "143",
+        "seasonNumber": 1,
         "episodeNumber": 1
       },
       "shortDescriptions": [
@@ -416,6 +629,7 @@
       },
       "episodeInfo": {
         "seriesId": "144",
+        "seasonNumber": 1,
         "episodeNumber": 1
       },
       "shortDescriptions": [
@@ -475,6 +689,7 @@
       },
       "episodeInfo": {
         "seriesId": "145",
+        "seasonNumber": 1,
         "episodeNumber": 1
       },
       "shortDescriptions": [
