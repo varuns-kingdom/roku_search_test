@@ -1,777 +1,727 @@
 {
-  "version": "1",
-  "defaultLanguage": "en",
-  "defaultAvailabilityCountries": [
-    "us"
-  ],
-  "defaultAvailabilityPlatforms": [
-    "all"
-  ],
-  "assets": [
-    {
-      "id": "141",
-      "type": "series",
-      "titles": [
+    "version": "1",
+    "defaultLanguage": "en",
+    "defaultAvailabilityCountries": [
+        "us"
+    ],
+    "defaultAvailabilityPlatforms": [
+        "all"
+    ],
+    "assets": [
         {
-          "value": "Killer Cases",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "shortDescriptions": [
+            "id": "141",
+            "type": "series",
+            "titles": [
+                {
+                    "value": "Killer Cases",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "shortDescriptions": [
+                {
+                    "value": "Killer Cases brings all the emotion, drama, and suspense from chilling murder trials.",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "longDescriptions": [
+                {
+                    "value": "Series overview: Killer Cases brings all the emotion, drama, and suspense from chilling murder trials.",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_695ca090dfc0a_1920x1080.jpg",
+                    "type": "main",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "releaseDate": "2026-04-15",
+            "genres": [
+                "law"
+            ]
+        },
         {
-          "value": "Killer Cases brings all the emotion, drama, and suspense from chilling murder trials.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "longDescriptions": [
+            "id": "142",
+            "type": "series",
+            "titles": [
+                {
+                    "value": "Murder Uncut",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "shortDescriptions": [
+                {
+                    "value": "Murder Uncut takes viewers behind the scenes of investigations where body and surveillance cams are critical to cracking the case.",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "longDescriptions": [
+                {
+                    "value": "Series overview: Murder Uncut takes viewers behind the scenes of investigations where body and surveillance cams are critical to cracking the case.",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_695ca1171bdcf_1920x1080.jpg",
+                    "type": "main",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "releaseDate": "2026-09-24",
+            "genres": [
+                "law"
+            ]
+        },
         {
-          "value": "Series overview: Killer Cases brings all the emotion, drama, and suspense from chilling murder trials.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "images": [
+            "id": "143",
+            "type": "series",
+            "titles": [
+                {
+                    "value": "Cult Justice",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "shortDescriptions": [
+                {
+                    "value": "Cult Justice explores the magnetic power of criminal cult leaders—and the dramatic investigations that finally brought them to justice.",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "longDescriptions": [
+                {
+                    "value": "Series overview: Cult Justice explores the magnetic power of criminal cult leaders—and the dramatic investigations that finally brought them to justice.",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_695c9f4ba5b30_1920x1080.jpg",
+                    "type": "main",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "releaseDate": "2025-12-12",
+            "genres": [
+                "law"
+            ]
+        },
         {
-          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_695ca090dfc0a_1920x1080.jpg",
-          "type": "main",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "releaseYear": 2026,
-      "genres": [
-        "law"
-      ],
-      "advisoryRatings": [
+            "id": "144",
+            "type": "series",
+            "titles": [
+                {
+                    "value": "Cops Reloaded",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "shortDescriptions": [
+                {
+                    "value": "COPS Reloaded showcases some of the most memorable suspects, car chases and action-packed moments from TV's popular reality program.",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "longDescriptions": [
+                {
+                    "value": "Series overview: COPS Reloaded showcases some of the most memorable suspects, car chases and action-packed moments from TV's popular reality program.",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_695c9ec8c1dce_1920x1080.jpg",
+                    "type": "main",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "releaseDate": "2025-12-12",
+            "genres": [
+                "law"
+            ]
+        },
         {
-          "value": "TV-14",
-          "source": "USA_PR"
-        }
-      ]
-    },
-    {
-      "id": "142",
-      "type": "series",
-      "titles": [
+            "id": "145",
+            "type": "series",
+            "titles": [
+                {
+                    "value": "Jail",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "shortDescriptions": [
+                {
+                    "value": "Jail gives viewers a front row seat as recently arrested suspects face entry into the criminal justice system.",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "longDescriptions": [
+                {
+                    "value": "Series overview: Jail gives viewers a front row seat as recently arrested suspects face entry into the criminal justice system.",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_695ca0592e1ec_1920x1080.jpg",
+                    "type": "main",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "releaseDate": "2025-12-12",
+            "genres": [
+                "law"
+            ]
+        },
         {
-          "value": "Murder Uncut",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "shortDescriptions": [
-        {
-          "value": "Murder Uncut takes viewers behind the scenes of investigations where body and surveillance cams are critical to cracking the case.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "longDescriptions": [
-        {
-          "value": "Series overview: Murder Uncut takes viewers behind the scenes of investigations where body and surveillance cams are critical to cracking the case.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "images": [
-        {
-          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_695ca1171bdcf_1920x1080.jpg",
-          "type": "main",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "releaseYear": 2026,
-      "genres": [
-        "law"
-      ],
-      "advisoryRatings": [
-        {
-          "value": "TV-14",
-          "source": "USA_PR"
-        }
-      ]
-    },
-    {
-      "id": "143",
-      "type": "series",
-      "titles": [
-        {
-          "value": "Cult Justice",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "shortDescriptions": [
-        {
-          "value": "Cult Justice explores the magnetic power of criminal cult leaders—and the dramatic investigations that finally brought them to justice.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "longDescriptions": [
-        {
-          "value": "Series overview: Cult Justice explores the magnetic power of criminal cult leaders—and the dramatic investigations that finally brought them to justice.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "images": [
-        {
-          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_695c9f4ba5b30_1920x1080.jpg",
-          "type": "main",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "releaseYear": 2026,
-      "genres": [
-        "law"
-      ],
-      "advisoryRatings": [
-        {
-          "value": "TV-14",
-          "source": "USA_PR"
-        }
-      ]
-    },
-    {
-      "id": "144",
-      "type": "series",
-      "titles": [
-        {
-          "value": "Cops Reloaded",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "shortDescriptions": [
-        {
-          "value": "COPS Reloaded showcases some of the most memorable suspects, car chases and action-packed moments from TV's popular reality program.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "longDescriptions": [
-        {
-          "value": "Series overview: COPS Reloaded showcases some of the most memorable suspects, car chases and action-packed moments from TV's popular reality program.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "images": [
-        {
-          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_695c9ec8c1dce_1920x1080.jpg",
-          "type": "main",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "releaseYear": 2025,
-      "genres": [
-        "law"
-      ],
-      "advisoryRatings": [
-        {
-          "value": "TV-14",
-          "source": "USA_PR"
-        }
-      ]
-    },
-    {
-      "id": "145",
-      "type": "series",
-      "titles": [
-        {
-          "value": "Jail",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "shortDescriptions": [
-        {
-          "value": "Jail gives viewers a front row seat as recently arrested suspects face entry into the criminal justice system.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "longDescriptions": [
-        {
-          "value": "Series overview: Jail gives viewers a front row seat as recently arrested suspects face entry into the criminal justice system.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "images": [
-        {
-          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_695ca0592e1ec_1920x1080.jpg",
-          "type": "main",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "releaseYear": 2025,
-      "genres": [
-        "law"
-      ],
-      "advisoryRatings": [
-        {
-          "value": "TV-14",
-          "source": "USA_PR"
-        }
-      ]
-    },
-    {
-      "type": "season",
-      "titles": [
-        {
-          "value": "Season 1",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "shortDescriptions": [
-        {
-          "value": "Season 1 of Killer Cases.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "seasonInfo": {
-        "seriesId": "141",
-        "seasonNumber": 1
-      },
-      "images": [
-        {
-          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_695ca090dfc0a_1920x1080.jpg",
-          "type": "main",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "id": "series-141-seasonNumber-1",
-      "longDescriptions": [
-        {
-          "value": "Explore episodes from Season 1 of Killer Cases.",
-          "languages": [
-            "en"
-          ]
-        }
-      ]
-    },
-    {
-      "type": "season",
-      "titles": [
-        {
-          "value": "Season 1",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "shortDescriptions": [
-        {
-          "value": "Season 1 of Murder Uncut.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "seasonInfo": {
-        "seriesId": "142",
-        "seasonNumber": 1
-      },
-      "images": [
-        {
-          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_695ca1171bdcf_1920x1080.jpg",
-          "type": "main",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "id": "series-142-seasonNumber-1",
-      "longDescriptions": [
-        {
-          "value": "Explore episodes from Season 1 of Murder Uncut.",
-          "languages": [
-            "en"
-          ]
-        }
-      ]
-    },
-    {
-      "type": "season",
-      "titles": [
-        {
-          "value": "Season 1",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "shortDescriptions": [
-        {
-          "value": "Season 1 of Cult Justice.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "seasonInfo": {
-        "seriesId": "143",
-        "seasonNumber": 1
-      },
-      "images": [
-        {
-          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_695c9f4ba5b30_1920x1080.jpg",
-          "type": "main",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "id": "series-143-seasonNumber-1",
-      "longDescriptions": [
-        {
-          "value": "Explore episodes from Season 1 of Cult Justice.",
-          "languages": [
-            "en"
-          ]
-        }
-      ]
-    },
-    {
-      "type": "season",
-      "titles": [
-        {
-          "value": "Season 1",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "shortDescriptions": [
-        {
-          "value": "Season 1 of Cops Reloaded.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "seasonInfo": {
-        "seriesId": "144",
-        "seasonNumber": 1
-      },
-      "images": [
-        {
-          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_695c9ec8c1dce_1920x1080.jpg",
-          "type": "main",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "id": "series-144-seasonNumber-1",
-      "longDescriptions": [
-        {
-          "value": "Explore episodes from Season 1 of Cops Reloaded.",
-          "languages": [
-            "en"
-          ]
-        }
-      ]
-    },
-    {
-      "type": "season",
-      "titles": [
-        {
-          "value": "Season 1",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "shortDescriptions": [
-        {
-          "value": "Season 1 of Jail.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "seasonInfo": {
-        "seriesId": "145",
-        "seasonNumber": 1
-      },
-      "images": [
-        {
-          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_695ca0592e1ec_1920x1080.jpg",
-          "type": "main",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "id": "series-145-seasonNumber-1",
-      "longDescriptions": [
-        {
-          "value": "Explore episodes from Season 1 of Jail.",
-          "languages": [
-            "en"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "213408",
-      "type": "episode",
-      "titles": [
-        {
-          "value": "The Doctor is Dead",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "content": {
-        "playOptions": [
-          {
-            "playId": "213408",
-            "license": "subscription",
-            "quality": "hd",
-            "availabilityInfo": {
-              "country": [
-                "us"
-              ]
+            "type": "season",
+            "titles": [
+                {
+                    "value": "Season 1",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "shortDescriptions": [
+                {
+                    "value": "Season 1 of Killer Cases.",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "seasonInfo": {
+                "seriesId": "141",
+                "seasonNumber": 1
             },
-            "availabilityStartTimeStamp": 0
-          }
-        ]
-      },
-      "episodeInfo": {
-        "seriesId": "141",
-        "seasonNumber": 1,
-        "episodeNumber": 1
-      },
-      "shortDescriptions": [
+            "releaseDate": "2026-04-15",
+            "images": [
+                {
+                    "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_695ca090dfc0a_1920x1080.jpg",
+                    "type": "main",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "id": "series-141-seasonNumber-1",
+            "longDescriptions": [
+                {
+                    "value": "Explore episodes from Season 1 of Killer Cases.",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ]
+        },
         {
-          "value": "The popular doctor, a rising social media star, found murdered in her own home.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "longDescriptions": [
-        {
-          "value": "Episode details: The popular doctor, a rising social media star, found murdered in her own home.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "images": [
-        {
-          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/6acfadd0efe41_1920x1080.jpg",
-          "type": "main",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "durationInSeconds": 2584,
-      "releaseYear": 2026,
-      "advisoryRatings": [
-        {
-          "value": "TV-14",
-          "source": "USA_PR"
-        }
-      ]
-    },
-    {
-      "id": "213459",
-      "type": "episode",
-      "titles": [
-        {
-          "value": "The Rogue Agent",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "content": {
-        "playOptions": [
-          {
-            "playId": "213459",
-            "license": "subscription",
-            "quality": "hd",
-            "availabilityInfo": {
-              "country": [
-                "us"
-              ]
+            "type": "season",
+            "titles": [
+                {
+                    "value": "Season 1",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "shortDescriptions": [
+                {
+                    "value": "Season 1 of Murder Uncut.",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "seasonInfo": {
+                "seriesId": "142",
+                "seasonNumber": 1
             },
-            "availabilityStartTimeStamp": 0
-          }
-        ]
-      },
-      "episodeInfo": {
-        "seriesId": "142",
-        "seasonNumber": 1,
-        "episodeNumber": 1
-      },
-      "shortDescriptions": [
+            "releaseDate": "2026-09-24",
+            "images": [
+                {
+                    "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_695ca1171bdcf_1920x1080.jpg",
+                    "type": "main",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "id": "series-142-seasonNumber-1",
+            "longDescriptions": [
+                {
+                    "value": "Explore episodes from Season 1 of Murder Uncut.",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ]
+        },
         {
-          "value": "Texas police suspected a serial killer was on the loose when bodies of four women were foundÂ dumped by the side of Highway 101.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "longDescriptions": [
-        {
-          "value": "Episode details: Texas police suspected a serial killer was on the loose when bodies of four women were foundÂ dumped by the side of Highway 101.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "images": [
-        {
-          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/693fa0963d408_1920x1080.jpg",
-          "type": "main",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "durationInSeconds": 2580,
-      "releaseYear": 2026,
-      "advisoryRatings": [
-        {
-          "value": "TV-14",
-          "source": "USA_PR"
-        }
-      ]
-    },
-    {
-      "id": "213466",
-      "type": "episode",
-      "titles": [
-        {
-          "value": "The Hollywood Prophet",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "content": {
-        "playOptions": [
-          {
-            "playId": "213466",
-            "license": "subscription",
-            "quality": "hd",
-            "availabilityInfo": {
-              "country": [
-                "us"
-              ]
+            "type": "season",
+            "titles": [
+                {
+                    "value": "Season 1",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "shortDescriptions": [
+                {
+                    "value": "Season 1 of Cult Justice.",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "seasonInfo": {
+                "seriesId": "143",
+                "seasonNumber": 1
             },
-            "availabilityStartTimeStamp": 0
-          }
-        ]
-      },
-      "episodeInfo": {
-        "seriesId": "143",
-        "seasonNumber": 1,
-        "episodeNumber": 1
-      },
-      "shortDescriptions": [
+            "releaseDate": "2025-12-12",
+            "images": [
+                {
+                    "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_695c9f4ba5b30_1920x1080.jpg",
+                    "type": "main",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "id": "series-143-seasonNumber-1",
+            "longDescriptions": [
+                {
+                    "value": "Explore episodes from Season 1 of Cult Justice.",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ]
+        },
         {
-          "value": "Bernie Hoffman's dream was to strike it rich as a Hollywood star when God called on him to preach the gospel; changing his name to Tony Alamo, he started a popular Hollywood ministry, TV and radio pro",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "longDescriptions": [
-        {
-          "value": "Bernie Hoffman's dream was to strike it rich as a Hollywood star when God called on him to preach the gospel; changing his name to Tony Alamo, he started a popular Hollywood ministry, TV and radio programmes together with his wife Susan.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "images": [
-        {
-          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/693fa2a5dde44_1920x1080.jpg",
-          "type": "main",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "durationInSeconds": 2580,
-      "releaseYear": 2026,
-      "advisoryRatings": [
-        {
-          "value": "TV-14",
-          "source": "USA_PR"
-        }
-      ]
-    },
-    {
-      "id": "213474",
-      "type": "episode",
-      "titles": [
-        {
-          "value": "UC Gets Jacked",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "content": {
-        "playOptions": [
-          {
-            "playId": "213474",
-            "license": "subscription",
-            "quality": "hd",
-            "availabilityInfo": {
-              "country": [
-                "us"
-              ]
+            "type": "season",
+            "titles": [
+                {
+                    "value": "Season 1",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "shortDescriptions": [
+                {
+                    "value": "Season 1 of Cops Reloaded.",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "seasonInfo": {
+                "seriesId": "144",
+                "seasonNumber": 1
             },
-            "availabilityStartTimeStamp": 0
-          }
-        ]
-      },
-      "episodeInfo": {
-        "seriesId": "144",
-        "seasonNumber": 1,
-        "episodeNumber": 1
-      },
-      "shortDescriptions": [
+            "releaseDate": "2025-12-12",
+            "images": [
+                {
+                    "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_695c9ec8c1dce_1920x1080.jpg",
+                    "type": "main",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "id": "series-144-seasonNumber-1",
+            "longDescriptions": [
+                {
+                    "value": "Explore episodes from Season 1 of Cops Reloaded.",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ]
+        },
         {
-          "value": "Officers go undercover to catch an alleged dealer. A couple is almost hit by a car. A woman tries to hide evidence after evading the police. A road rage incident leads to assault.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "longDescriptions": [
-        {
-          "value": "Episode details: Officers go undercover to catch an alleged dealer. A couple is almost hit by a car. A woman tries to hide evidence after evading the police. A road rage incident leads to assault.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "images": [
-        {
-          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/693fa92dc817c_1920x1080.jpg",
-          "type": "main",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "durationInSeconds": 1205,
-      "releaseYear": 2026,
-      "advisoryRatings": [
-        {
-          "value": "TV-14",
-          "source": "USA_PR"
-        }
-      ]
-    },
-    {
-      "id": "213525",
-      "type": "episode",
-      "titles": [
-        {
-          "value": "Caught On Camera",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "content": {
-        "playOptions": [
-          {
-            "playId": "213525",
-            "license": "subscription",
-            "quality": "hd",
-            "availabilityInfo": {
-              "country": [
-                "us"
-              ]
+            "type": "season",
+            "titles": [
+                {
+                    "value": "Season 1",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "shortDescriptions": [
+                {
+                    "value": "Season 1 of Jail.",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "seasonInfo": {
+                "seriesId": "145",
+                "seasonNumber": 1
             },
-            "availabilityStartTimeStamp": 0
-          }
-        ]
-      },
-      "episodeInfo": {
-        "seriesId": "145",
-        "seasonNumber": 1,
-        "episodeNumber": 1
-      },
-      "shortDescriptions": [
+            "releaseDate": "2025-12-12",
+            "images": [
+                {
+                    "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/5013_695ca0592e1ec_1920x1080.jpg",
+                    "type": "main",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "id": "series-145-seasonNumber-1",
+            "longDescriptions": [
+                {
+                    "value": "Explore episodes from Season 1 of Jail.",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ]
+        },
         {
-          "value": "Two men are found fighting on security cameras. Meanwhile, an impromptu tattoo jail parlor is discovered and shut down. Later, a Russian man and his mysterious friend are excited to be in a U.S. jail.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "longDescriptions": [
+            "id": "213408",
+            "type": "episode",
+            "titles": [
+                {
+                    "value": "The Doctor is Dead",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "content": {
+                "playOptions": [
+                    {
+                        "playId": "213408",
+                        "license": "subscription",
+                        "quality": "hd",
+                        "availabilityInfo": {
+                            "country": [
+                                "us"
+                            ]
+                        },
+                        "availabilityStartTimeStamp": 0
+                    }
+                ]
+            },
+            "episodeInfo": {
+                "seriesId": "141",
+                "seasonNumber": 1,
+                "episodeNumber": 1
+            },
+            "shortDescriptions": [
+                {
+                    "value": "The popular doctor, a rising social media star, found murdered in her own home.",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "longDescriptions": [
+                {
+                    "value": "Episode details: The popular doctor, a rising social media star, found murdered in her own home.",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/6acfadd0efe41_1920x1080.jpg",
+                    "type": "main",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "durationInSeconds": 2584,
+            "releaseDate": "2026-04-15",
+            "releaseYear": 2026
+        },
         {
-          "value": "Episode details: Two men are found fighting on security cameras. Meanwhile, an impromptu tattoo jail parlor is discovered and shut down. Later, a Russian man and his mysterious friend are excited to be in a U.S. jail.",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "images": [
+            "id": "213459",
+            "type": "episode",
+            "titles": [
+                {
+                    "value": "The Rogue Agent",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "content": {
+                "playOptions": [
+                    {
+                        "playId": "213459",
+                        "license": "subscription",
+                        "quality": "hd",
+                        "availabilityInfo": {
+                            "country": [
+                                "us"
+                            ]
+                        },
+                        "availabilityStartTimeStamp": 0
+                    }
+                ]
+            },
+            "episodeInfo": {
+                "seriesId": "142",
+                "seasonNumber": 1,
+                "episodeNumber": 1
+            },
+            "shortDescriptions": [
+                {
+                    "value": "Texas police suspected a serial killer was on the loose when bodies of four women were foundÂ dumped by the side of Highway 101.",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "longDescriptions": [
+                {
+                    "value": "Episode details: Texas police suspected a serial killer was on the loose when bodies of four women were foundÂ dumped by the side of Highway 101.",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/693fa0963d408_1920x1080.jpg",
+                    "type": "main",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "durationInSeconds": 2580,
+            "releaseDate": "2026-09-24",
+            "releaseYear": 2026
+        },
         {
-          "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/693fc9370307b_1920x1080.jpg",
-          "type": "main",
-          "languages": [
-            "en"
-          ]
-        }
-      ],
-      "durationInSeconds": 1229,
-      "releaseYear": 2026,
-      "advisoryRatings": [
+            "id": "213466",
+            "type": "episode",
+            "titles": [
+                {
+                    "value": "The Hollywood Prophet",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "content": {
+                "playOptions": [
+                    {
+                        "playId": "213466",
+                        "license": "subscription",
+                        "quality": "hd",
+                        "availabilityInfo": {
+                            "country": [
+                                "us"
+                            ]
+                        },
+                        "availabilityStartTimeStamp": 0
+                    }
+                ]
+            },
+            "episodeInfo": {
+                "seriesId": "143",
+                "seasonNumber": 1,
+                "episodeNumber": 1
+            },
+            "shortDescriptions": [
+                {
+                    "value": "Bernie Hoffman's dream was to strike it rich as a Hollywood star when God called on him to preach the gospel; changing his name to Tony Alamo, he started a popular Hollywood ministry, TV and radio pro",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "longDescriptions": [
+                {
+                    "value": "Bernie Hoffman's dream was to strike it rich as a Hollywood star when God called on him to preach the gospel; changing his name to Tony Alamo, he started a popular Hollywood ministry, TV and radio programmes together with his wife Susan.",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/693fa2a5dde44_1920x1080.jpg",
+                    "type": "main",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "durationInSeconds": 2580,
+            "releaseDate": "2025-12-12",
+            "releaseYear": 2025
+        },
         {
-          "value": "TV-14",
-          "source": "USA_PR"
+            "id": "213474",
+            "type": "episode",
+            "titles": [
+                {
+                    "value": "UC Gets Jacked",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "content": {
+                "playOptions": [
+                    {
+                        "playId": "213474",
+                        "license": "subscription",
+                        "quality": "hd",
+                        "availabilityInfo": {
+                            "country": [
+                                "us"
+                            ]
+                        },
+                        "availabilityStartTimeStamp": 0
+                    }
+                ]
+            },
+            "episodeInfo": {
+                "seriesId": "144",
+                "seasonNumber": 1,
+                "episodeNumber": 1
+            },
+            "shortDescriptions": [
+                {
+                    "value": "Officers go undercover to catch an alleged dealer. A couple is almost hit by a car. A woman tries to hide evidence after evading the police. A road rage incident leads to assault.",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "longDescriptions": [
+                {
+                    "value": "Episode details: Officers go undercover to catch an alleged dealer. A couple is almost hit by a car. A woman tries to hide evidence after evading the police. A road rage incident leads to assault.",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/693fa92dc817c_1920x1080.jpg",
+                    "type": "main",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "durationInSeconds": 1205,
+            "releaseDate": "2025-12-12",
+            "releaseYear": 2025
+        },
+        {
+            "id": "213525",
+            "type": "episode",
+            "titles": [
+                {
+                    "value": "Caught On Camera",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "content": {
+                "playOptions": [
+                    {
+                        "playId": "213525",
+                        "license": "subscription",
+                        "quality": "hd",
+                        "availabilityInfo": {
+                            "country": [
+                                "us"
+                            ]
+                        },
+                        "availabilityStartTimeStamp": 0
+                    }
+                ]
+            },
+            "episodeInfo": {
+                "seriesId": "145",
+                "seasonNumber": 1,
+                "episodeNumber": 1
+            },
+            "shortDescriptions": [
+                {
+                    "value": "Two men are found fighting on security cameras. Meanwhile, an impromptu tattoo jail parlor is discovered and shut down. Later, a Russian man and his mysterious friend are excited to be in a U.S. jail.",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "longDescriptions": [
+                {
+                    "value": "Episode details: Two men are found fighting on security cameras. Meanwhile, an impromptu tattoo jail parlor is discovered and shut down. Later, a Russian man and his mysterious friend are excited to be in a U.S. jail.",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "url": "https://lawcrime-vod.multitvsolution.com/multitv/source/693fc9370307b_1920x1080.jpg",
+                    "type": "main",
+                    "languages": [
+                        "en"
+                    ]
+                }
+            ],
+            "durationInSeconds": 1229,
+            "releaseDate": "2025-12-12",
+            "releaseYear": 2025
         }
-      ]
-    }
-  ]
+    ]
 }
