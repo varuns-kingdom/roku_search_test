@@ -255,7 +255,7 @@
       ],
       "shortDescriptions": [
         {
-          "value": "Killer Cases brings all the emotion, drama, and suspense from chilling murder trials.",
+          "value": "Season 1 of Killer Cases.",
           "languages": [
             "en"
           ]
@@ -274,7 +274,15 @@
           ]
         }
       ],
-      "id": "series-141-seasonNumber-1"
+      "id": "series-141-seasonNumber-1",
+      "longDescriptions": [
+        {
+          "value": "Explore episodes from Season 1 of Killer Cases.",
+          "languages": [
+            "en"
+          ]
+        }
+      ]
     },
     {
       "type": "season",
@@ -288,7 +296,7 @@
       ],
       "shortDescriptions": [
         {
-          "value": "Murder Uncut takes viewers behind the scenes of investigations where body and surveillance cams are critical to cracking the case.",
+          "value": "Season 1 of Murder Uncut.",
           "languages": [
             "en"
           ]
@@ -307,7 +315,15 @@
           ]
         }
       ],
-      "id": "series-142-seasonNumber-1"
+      "id": "series-142-seasonNumber-1",
+      "longDescriptions": [
+        {
+          "value": "Explore episodes from Season 1 of Murder Uncut.",
+          "languages": [
+            "en"
+          ]
+        }
+      ]
     },
     {
       "type": "season",
@@ -321,7 +337,7 @@
       ],
       "shortDescriptions": [
         {
-          "value": "Cult Justice explores the magnetic power of criminal cult leaders—and the dramatic investigations that finally brought them to justice.",
+          "value": "Season 1 of Cult Justice.",
           "languages": [
             "en"
           ]
@@ -340,7 +356,15 @@
           ]
         }
       ],
-      "id": "series-143-seasonNumber-1"
+      "id": "series-143-seasonNumber-1",
+      "longDescriptions": [
+        {
+          "value": "Explore episodes from Season 1 of Cult Justice.",
+          "languages": [
+            "en"
+          ]
+        }
+      ]
     },
     {
       "type": "season",
@@ -354,7 +378,7 @@
       ],
       "shortDescriptions": [
         {
-          "value": "COPS Reloaded showcases some of the most memorable suspects, car chases and action-packed moments from TV's popular reality program.",
+          "value": "Season 1 of Cops Reloaded.",
           "languages": [
             "en"
           ]
@@ -373,7 +397,15 @@
           ]
         }
       ],
-      "id": "series-144-seasonNumber-1"
+      "id": "series-144-seasonNumber-1",
+      "longDescriptions": [
+        {
+          "value": "Explore episodes from Season 1 of Cops Reloaded.",
+          "languages": [
+            "en"
+          ]
+        }
+      ]
     },
     {
       "type": "season",
@@ -387,7 +419,7 @@
       ],
       "shortDescriptions": [
         {
-          "value": "Jail gives viewers a front row seat as recently arrested suspects face entry into the criminal justice system.",
+          "value": "Season 1 of Jail.",
           "languages": [
             "en"
           ]
@@ -406,7 +438,15 @@
           ]
         }
       ],
-      "id": "series-145-seasonNumber-1"
+      "id": "series-145-seasonNumber-1",
+      "longDescriptions": [
+        {
+          "value": "Explore episodes from Season 1 of Jail.",
+          "languages": [
+            "en"
+          ]
+        }
+      ]
     },
     {
       "id": "213408",
